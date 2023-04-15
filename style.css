@@ -532,3 +532,37 @@ display: block;
     color:red;
     
 }
+.secc-1{
+    display:flex;
+    padding:30px;
+    justify-content: center;
+    text-align: center;
+}
+.blk{
+    display:inline-flex;
+    color:#00CC99;
+    font-size:20px;
+    font-weight:500;
+    align-content: center;
+}
+.imgg-part img{
+    border-radius:50%;
+    border:3px solid #00CC99;
+}
+.secc-2{
+    display:flex;
+    padding:30px;
+    justify-content: center;
+    text-align: center;
+    background:#00CC99;
+}
+.text-part1{
+    display:inline-flex;
+    color:#fff;
+    font-size:20px;
+    font-weight:500; 
+}
+.imgg-part1 img{
+    border-radius:50%;
+    border:3px solid #fff;
+}
