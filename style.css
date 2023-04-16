@@ -6,7 +6,7 @@
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
 }
-                            /*  Home Wala Page */
+         /*  Home Wala Page */
 .wlcm{
     
 }
@@ -186,6 +186,13 @@ nav .content .links{
     content: "\f00d";
 
   }
+.subscribe{
+    padding:20px;
+    background-color:#28282b;
+    font-size:10px;
+}
+.subscribe form{    
+}
 .heading{
     padding:90px;
     color:#fff;
@@ -481,10 +488,10 @@ display: block;
     border:2px solid red;
 }
 .subscribe{
-    padding:50px;
+    padding:20px;
     background-color:#28282b;
     color:white;
-    font-size:20px;
+    font-size:15px;
     text-align: center;
 }
 .subscribe form{
